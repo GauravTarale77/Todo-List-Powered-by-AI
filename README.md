@@ -1,4 +1,5 @@
 📋 AI-Powered Todo List
+
 A modern to‑do list application that leverages AI (via CopilotKit) for smart tasks and suggestions.
 
 🧩 Overview
