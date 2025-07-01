@@ -1,21 +1,36 @@
-📋 AI-Powered Todo List
+   📋 AI-Powered Todo List
+
 A modern to‑do list application that leverages AI (via CopilotKit) for smart tasks and suggestions.
 
 🧩 Overview
+
 This project is a Next.js/TypeScript-based to‑do app enhanced with AI functionality:
+
 Create, update, delete, and complete tasks.
+
 AI-driven task suggestions and helpers via OpenAI/CopilotKit.
+
 Clean, modular structure: frontend in public/, main app logic under app/, utility functions in lib/utils.ts, reusable UI components, and voice/text input capabilities.
 
+
 🛠️ Tech Stack
+
 Framework: Next.js
+
 Language: TypeScript
+
 AI: CopilotKit (OpenAI-powered)
+
 API Endpoints: /app/api/copilotkit/route.ts
+
 Utils: Under lib/utils.ts
+
 Components: Modular React components
+
 Styling: (Add your CSS/SCSS/styling method here)
+
 Environment Variables: Stored in .env (not committed)
+
 
 📦 Installation
 1. Clone the repo:
